@@ -1,6 +1,6 @@
 <template>
   <div id="iklan-store">
-      <div class="container-fluid">
+      <div class="container">
            <div class="bg-iklan mt-5">
                 <div class="row">
                     <div class="col-lg-4 d-sm-none d-md-block">

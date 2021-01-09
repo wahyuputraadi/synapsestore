@@ -1,6 +1,6 @@
 <template>
   <div id="footer-store">
-     <div class="container-fluid">
+     <div class="container">
          <div class="bg-space">
              <div class="row text-center">
                     <div class="col-lg-2">
