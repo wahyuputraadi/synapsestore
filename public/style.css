@@ -1,0 +1,160 @@
+    @media (min-width: 992px) {
+        #app {
+            margin-bottom: 20px;
+        }
+        #BannerStore .bg-banner {
+            height: auto;
+            background: linear-gradient(to right, #C83838 1.94%, #FFB11E 100%);
+            /* background: url(./city.png); */
+            border-radius: 30px;
+            color: white;
+            margin: 10px;
+        }
+        #BannerStore .bg-banner span {
+            font-weight: bold;
+        }
+        #BannerStore .bg-banner h1 {
+            font-size: 35px;
+        }
+        #BannerStore .bg-banner .kolom-kiri {
+            padding-top: 50px;
+            padding-left: 50px;
+        }
+        /* BARIS CategoryStore */
+        #CategoryStore h1,
+        #promo-store h1 {
+            font-size: 24px;
+        }
+        #CategoryStore span,
+        #BestSeller span,
+        #promo-store span {
+            font-weight: bold;
+        }
+        #CategoryStore .bg-category {
+            backgroUnd: #FFFFFF;
+            box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.25);
+            border-radius: 15px;
+        }
+        #CategoryStore .bg-category h1 {
+            font-weight: normal;
+            font-size: 20px;
+            color: #FBA820;
+        }
+        /* Best Seller */
+        #BestSeller h1 {
+            font-size: 24px;
+        }
+        /* Iklan Store */
+        #iklan-store .bg-iklan {
+            background-color: #F8A70F;
+            width: 100%;
+            height: auto;
+            /* border-radius: ; */
+            /* border-top-left-radius: 30px;
+    border-top-right-radius: 30px; */
+            border-radius: 30px 30px 0 0;
+            color: white;
+        }
+        #iklan-store .desc {
+            margin-top: 70px;
+        }
+        #iklan-store .desc h1 {
+            font-weight: bold;
+            font-size: 30px;
+        }
+        #iklan-store .desc h5 {
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 28px;
+        }
+        /* footer store */
+        #footer-store .bg-space {
+            background-color: #CB980C;
+            width: 100%;
+            height: auto;
+        }
+        #footer-store .logo {
+            margin: 30px;
+        }
+        #footer-store .bg-footer {
+            background-color: #F8A70F;
+            width: 100%;
+            height: auto;
+            border-radius: 0px 0px 30px 30px;
+            color: white;
+            padding: 25px;
+        }
+        #footer-store h1 {
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 25px;
+        }
+        #footer-store h6 {
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 30px;
+        }
+        /* Detail Store */
+        /* #product-details {
+            background: url(../assets/city.png);
+        } */
+        #product-details .review {
+            width: 85px;
+            height: 85px;
+        }
+        #product-details .bg-desc {
+            width: 100%;
+            height: 250px;
+            background: #F8F5ED;
+            border-radius: 10px;
+            padding: 20px;
+            overflow: scroll;
+        }
+        #product-details .btn-warning {
+            background: #F8A70F;
+            padding: 10px;
+            color: white;
+        }
+        #product-details .btn-warning:hover {
+            background: #aa7209;
+            padding: 10px;
+            color: white;
+        }
+        #KeranjangStore .product-checkout {
+            background-color: #CDFDF7;
+            width: 100%;
+            height: auto;
+        }
+        #KeranjangStore .product-checkout span {
+            float: right;
+        }
+        /* #BestSeller .content .owl-carousel .owl-item img {
+        text-align: center;
+   */
+        /* #BestSeller .best-scrollbar {
+            width: 100%;
+            height: auto;
+            border: 1px solid #fff;
+            display: flex;
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+        #BestSeller .best-scrollbar::-webkit-scrollbar {
+            width: 0;
+        }
+        #BestSeller .best-scrollbar .card {
+            min-width: 90px;
+            height: auto;
+            background: white;
+            margin-right: 7px;
+            margin-bottom: 20px;
+        }
+        #BestSeller .best-scrollbar .scroll .card {
+            padding: 5px;
+            width: 100%;
+            height: auto;
+        }
+        #BestSeller .best-scrollbar {
+            -webkit-overflow-scrolling: touch;
+        } */
+    }
