@@ -22,7 +22,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>{{ NamaProduct }}</b></h5>
                                     <p class="card-text"><span>IDR</span> {{ HargaProduct }}</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                     <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                                 <div class="card-body text-center">
                                      <h5 class="card-title"><b>{{ NamaProduct }}</b></h5>
                                     <p class="card-text"><span>IDR</span> {{ HargaProduct }}</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                      <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -150,7 +150,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title"><b>Nike Blazer</b></h5>
                                     <p class="card-text"><span>IDR</span> 180.000</p>
-                                    <a href="#" class="btn btn-success btn-sm">Lihat Barang</a>
+                                       <router-link to="/product-detail"><div type="button" class="btn btn-success">Lihat Barang </div></router-link>
                                 </div>
                             </div>
                         </div>
